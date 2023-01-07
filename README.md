@@ -3,6 +3,49 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 
 
 
+**强化学习教程 | RL Tutorials：**
+
+- 《深度强化学习》王树森： [https://www.bilibili.com/video/BV12o4y197US](https://www.bilibili.com/video/BV12o4y197US)
+- 《Deep Reinforcement Learning》李宏毅： [https://www.bilibili.com/video/BV1UE411G78S](https://www.bilibili.com/video/BV1UE411G78S)
+- 《世界冠军带你从零实践强化学习》百度飞桨团队： [https://www.bilibili.com/video/BV1yv411i7xd](https://www.bilibili.com/video/BV1yv411i7xd)
+- 《强化学习白板推导》：[https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040](https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040)
+- 《蘑菇书EasyRL》王琦等： [https://github.com/datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
+- 《动手学强化学习》张伟楠等： [http://hrl.boyuai.com/](http://hrl.boyuai.com/)
+
+
+
+**强化学习开源项目 | RL Open Source Projects：**
+
+- PFRL：基于Pytorch的深度强化学习库： [https://github.com/pfnet/pfrl](https://github.com/pfnet/pfrl)
+- 莫烦强化学习TensorFlow代码： [https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+- 百度飞桨PaddlePaddle强化学习代码： [https://github.com/PaddlePaddle/PARL](https://github.com/PaddlePaddle/PARL)
+- Github强大的强化学习库： [https://github.com/wwxFromTju/awesome-reinforcement-learning-lib](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
+- 优达学城（在线教育平台）强化学习库： [https://github.com/udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)
+
+
+
+**强化学习顶级学术会议：**
+
+- **[AAAI]** AAAI Conference on Artificial Intelligence, AAAI. **（CCF-A会议）**
+- **[IJCAI]** International Joint Conference on Artificial Intelligence, IJCAI. **（CCF-A会议）**
+- **[ICML]** International Conference on Machine Learning, ICML.**（CCF-A会议）**
+- **[NeurIPS]** Annual Conference on Neural Information Processing Systems, NeurIPS. **（CCF-A会议）**
+- **[AAMAS]** International Joint Conference on Autonomous Agents and Multi-agent Systems, AAMAS. **（CCF-A会议）**
+- **[ICLR]** International Conference on Learning Representations, ICRA. **（CCF-A会议）**
+- **[ICRA]** IEEE International Conference on Robotics and Automation, ICRA. **（CCF-A会议）**
+
+
+
+**强化学习社区 | RL Community：**
+
+- RLChina强化学习社区： [http://rlchina.org/](http://rlchina.org/)
+- 智源社区强化学习专栏： [https://hub.baai.ac.cn/?tag_id=74](https://hub.baai.ac.cn/?tag_id=74)
+- 智源社区强化学习周刊： [https://hub.baai.ac.cn/users/18447](https://hub.baai.ac.cn/users/18447)
+
+
+
+
+
 **强化学习学术团队（国内） | RL Academic Team（Home）：**
 
 - 张海峰（中科院自动化所）：https://people.ucas.edu.cn/~zhf （多智能体强化学习、智能体博弈、智能体评估）
@@ -28,30 +71,3 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 - Sergey Levine（加州伯克利）：https://people.eecs.berkeley.edu/~svlevine/
 
 
-
-**强化学习社区 | RL Community：**
-
-- RLChina强化学习社区： [http://rlchina.org/](http://rlchina.org/)
-- 智源社区强化学习专栏： [https://hub.baai.ac.cn/?tag_id=74](https://hub.baai.ac.cn/?tag_id=74)
-- 智源社区强化学习周刊： [https://hub.baai.ac.cn/users/18447](https://hub.baai.ac.cn/users/18447)
-
-
-
-**强化学习教程 | RL Tutorials：**
-
-- 《深度强化学习》王树森： [https://www.bilibili.com/video/BV12o4y197US](https://www.bilibili.com/video/BV12o4y197US)
-- 《Deep Reinforcement Learning》李宏毅： [https://www.bilibili.com/video/BV1UE411G78S](https://www.bilibili.com/video/BV1UE411G78S)
-- 《世界冠军带你从零实践强化学习》百度飞桨团队： [https://www.bilibili.com/video/BV1yv411i7xd](https://www.bilibili.com/video/BV1yv411i7xd)
-- 《强化学习白板推导》：[https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040](https://space.bilibili.com/97068901/channel/seriesdetail?sid=594040)
-- 《蘑菇书EasyRL》王琦等： [https://github.com/datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
-- 《动手学强化学习》张伟楠等： [http://hrl.boyuai.com/](http://hrl.boyuai.com/)
-
-
-
-**强化学习开源项目 | RL Open Source Projects：**
-
-- PFRL：基于Pytorch的深度强化学习库： [https://github.com/pfnet/pfrl](https://github.com/pfnet/pfrl)
-- 莫烦强化学习TensorFlow代码： [https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
-- 百度飞桨PaddlePaddle强化学习代码： [https://github.com/PaddlePaddle/PARL](https://github.com/PaddlePaddle/PARL)
-- Github强大的强化学习库： [https://github.com/wwxFromTju/awesome-reinforcement-learning-lib](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
-- 优达学城（在线教育平台）强化学习库： [https://github.com/udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)
