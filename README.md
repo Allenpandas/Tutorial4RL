@@ -33,7 +33,7 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 - **[AAMAS]** International Joint Conference on Autonomous Agents and Multi-agent Systems, AAMAS. **（CCF-A会议）**
 - **[ICLR]** International Conference on Learning Representations, ICRA. **（CCF-A会议）**
 - **[ICRA]** IEEE International Conference on Robotics and Automation, ICRA. **（CCF-A会议）**
-- 强化学习顶会文章合集：(https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers)**
+- 强化学习顶会文章合集：https://github.com/Allenpandas/Awesome-Reinforcement-Learning-Papers
 
 
 **强化学习社区 | RL Community：**
