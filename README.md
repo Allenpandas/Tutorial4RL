@@ -77,15 +77,15 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 
 最近更新时间：2024.01.29
 
-| 姓名              | 所属机构                             | 个人主页                                                | 🔥指数 |
-| ----------------- | ------------------------------------ | ------------------------------------------------------- | ----- |
-| Sergey Levine     | UC Berkeley                          | [link](https://people.eecs.berkeley.edu/~svlevine/)     | 289   |
-| Piter Abbeel      | UC Berkeley                          | [link](https://people.eecs.berkeley.edu/~pabbeel/)      | 141   |
-| Matthew E. Taylor | University of Alberta                | [link](https://drmatttaylor.net/)                       | 118   |
-| Peter Stone       | University of Texas at Austin        | [link](https://www.cs.utexas.edu/~pstone/)              | 107   |
-| Shimon Whiteson   | University of Oxford / Waymo         | [link](https://www.cs.ox.ac.uk/people/shimon.whiteson/) | 106   |
-| Jun Wang          | University College London            | [link](http://www0.cs.ucl.ac.uk/staff/jun.wang/ )       | 65    |
-| Satinder Singh    | University of Michigan               | [link](https://web.eecs.umich.edu/~baveja/)             | 62    |
-| David Silver      | University College London / DeepMind | [link](https://www.davidsilver.uk/)                     | 61    |
-| Bo An             | Nanyang Technological University     | [link](https://personal.ntu.edu.sg/boan/index.html)     |       |
+| 姓名              | 所属机构                             |                          主页                           | 🔥指数 |
+| ----------------- | ------------------------------------ | :-----------------------------------------------------: | :---: |
+| Sergey Levine     | UC Berkeley                          |   [link](https://people.eecs.berkeley.edu/~svlevine/)   |  289  |
+| Piter Abbeel      | UC Berkeley                          |   [link](https://people.eecs.berkeley.edu/~pabbeel/)    |  141  |
+| Matthew E. Taylor | University of Alberta                |            [link](https://drmatttaylor.net/)            |  118  |
+| Peter Stone       | University of Texas at Austin        |       [link](https://www.cs.utexas.edu/~pstone/)        |  107  |
+| Shimon Whiteson   | University of Oxford / Waymo         | [link](https://www.cs.ox.ac.uk/people/shimon.whiteson/) |  106  |
+| Jun Wang          | University College London            |    [link](http://www0.cs.ucl.ac.uk/staff/jun.wang/ )    |  65   |
+| Satinder Singh    | University of Michigan               |       [link](https://web.eecs.umich.edu/~baveja/)       |  62   |
+| David Silver      | University College London / DeepMind |           [link](https://www.davidsilver.uk/)           |  61   |
+| Bo An             | Nanyang Technological University     |   [link](https://personal.ntu.edu.sg/boan/index.html)   |       |
 
