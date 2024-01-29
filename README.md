@@ -75,13 +75,21 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 
 **强化学习学术团队（国外） | RL Academic Team（Abroad）：**
 
-- Piter Abbeel（加州伯克利·机器人学习实验室）：http://people.eecs.berkeley.edu/~pabbeel/ | http://rll.berkeley.edu/ （强化学习、机器人）
-- Jun Wang（伦敦大学·人工智能中心）：http://www0.cs.ucl.ac.uk/staff/jun.wang/ （多智能体强化学习）
-- Bo An（新加坡南洋理工大学）：https://personal.ntu.edu.sg/boan/index.html （多智能体系统、博弈论）
-- Richard S. Sutton（DeepMind）：http://incompleteideas.net/ 
-- David Silver（DeepMind）：https://www.davidsilver.uk/
-- Satinder Singh（密歇根大学）：https://web.eecs.umich.edu/~baveja/
-- Peter Stone（德克萨斯大学）：https://www.cs.utexas.edu/~pstone/
-- Sergey Levine（加州伯克利）：https://people.eecs.berkeley.edu/~svlevine/
+最近更新时间：2024.01.29
+
+| 姓名              | 所属机构                             | 个人主页                                                     | 🔥指数 |
+| ----------------- | ------------------------------------ | ------------------------------------------------------------ | ----- |
+| Sergey Levine     | UC Berkeley                          | [https://people.eecs.berkeley.edu/~svlevine/](https://people.eecs.berkeley.edu/~svlevine/) | 🔥289  |
+| Piter Abbeel      | UC Berkeley                          | [https://people.eecs.berkeley.edu/~pabbeel/](https://people.eecs.berkeley.edu/~pabbeel/) | 🔥141  |
+| Matthew E. Taylor | University of Alberta                | [https://drmatttaylor.net/](https://drmatttaylor.net/)       | 🔥118  |
+| Peter Stone       | University of Texas at Austin        | [https://www.cs.utexas.edu/~pstone/](https://www.cs.utexas.edu/~pstone/) | 🔥107  |
+| Shimon Whiteson   | University of Oxford / Waymo         | [https://www.cs.ox.ac.uk/people/shimon.whiteson/](https://www.cs.ox.ac.uk/people/shimon.whiteson/) | 🔥106  |
+| Jun Wang          | University College London            | [http://www0.cs.ucl.ac.uk/staff/jun.wang/](http://www0.cs.ucl.ac.uk/staff/jun.wang/ ) | 🔥65   |
+| Satinder Singh    | University of Michigan               | [https://web.eecs.umich.edu/~baveja/](https://web.eecs.umich.edu/~baveja/) | 🔥62   |
+| David Silver      | University College London / DeepMind | [https://www.davidsilver.uk/](https://www.davidsilver.uk/)   | 🔥61   |
+| Bo An             | Nanyang Technological University     | [https://personal.ntu.edu.sg/boan/index.html](https://personal.ntu.edu.sg/boan/index.html) |       |
+
+
+
 
 
