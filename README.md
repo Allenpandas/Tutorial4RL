@@ -79,39 +79,39 @@ Tutorial4RL: Tutorial for Reinforcement Learning. 强化学习入门教程.
 
 ### Abroad Langya Rank
 
-| Name                 | Organization                         |                             Link                             | Rank-Score |
-| -------------------- | ------------------------------------ | :----------------------------------------------------------: | :--------: |
-| Sergey Levine        | UC Berkeley                          | [[HomePage](https://people.eecs.berkeley.edu/~svlevine/)] [Scholar] |    289     |
-| Piter Abbeel         | UC Berkeley                          | [[HomePage](https://people.eecs.berkeley.edu/~pabbeel/)] [Scholar] |    141     |
-| Matthew E. Taylor    | University of Alberta                |         [link](https://drmatttaylor.net/) [Scholar]          |    118     |
-| Peter Stone          | University of Texas at Austin        |     [link ](https://www.cs.utexas.edu/~pstone/)[Scholar]     |    107     |
-| Shimon Whiteson      | University of Oxford / Waymo         | [link ](https://www.cs.ox.ac.uk/people/shimon.whiteson/)[Scholar] |    106     |
-| Jan Peters           |                                      |                                                              |     97     |
-| Shie Mannor          |                                      |                                                              |     94     |
-| Chelsea Finn         |                                      |                                                              |     92     |
-| Dusit Niyato         |                                      |                                                              |     88     |
-| Doina Precup         |                                      |                                                              |     84     |
-| Ann Nowé             |                                      |                                                              |     83     |
-| Marcello Restelli    |                                      |                                                              |     80     |
-| Frank L. Lewis       |                                      |                                                              |     78     |
-| H. Vincent Poor      |                                      |                                                              |     71     |
-| Vaneet Aggarwal      |                                      |                                                              |     71     |
-| F. Richard Yu        |                                      |                                                              |     71     |
-| Jun Wang             | University College London            | [link](http://www0.cs.ucl.ac.uk/staff/jun.wang/ ) [Google Scholar] |     65     |
-| Michael L. Littman   |                                      |                                                              |     64     |
-| Satinder Singh       | University of Michigan               | [link ](https://web.eecs.umich.edu/~baveja/)[Google Scholar] |     62     |
-| Mehdi Bennis         |                                      |                                                              |     62     |
-| David Silver         | University College London / DeepMind |     [link ](https://www.davidsilver.uk/)[Google Scholar]     |     61     |
-| Rémi Munos           |                                      |                                                              |     61     |
-| Marc G. Bellemare    |                                      |                                                              |     60     |
-| Joelle Pineau        |                                      |                                                              |     60     |
-| Martin A. Riedmiller |                                      |                                                              |     59     |
-| Mohsen Guizani       |                                      |                                                              |     56     |
-| Stefan Wermter       |                                      |                                                              |     54     |
-| Ying-Chang Liang     |                                      |                                                              |     52     |
-| Jonathan P. How      |                                      |                                                              |     52     |
-| Ivana Dusparic       |                                      |                                                              |     51     |
-| Robert Babuska       |                                      |                                                              |     51     |
-| Emma Brunskill       |                                      |                                                              |     50     |
-| Bo An                | Nanyang Technological University     | [link](https://personal.ntu.edu.sg/boan/index.html) [Scholar] |     —      |
+| Name                 | Organization                                                 |                             Link                             | Rank-Score |
+| -------------------- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--------: |
+| Sergey Levine        | UC Berkeley                                                  | [[Google Scholar](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN&oi=ao)] |    289     |
+| Piter Abbeel         | UC Berkeley                                                  | [[Google Scholar](https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=zh-CN)] |    141     |
+| Matthew E. Taylor    | University of Alberta                                        | [[Google Scholar](https://scholar.google.com/citations?user=edQgLXcAAAAJ&hl=zh-CN&oi=ao)] |    118     |
+| Peter Stone          | University of Texas at Austin                                | [[Google Scholar](https://scholar.google.com/citations?user=qnwjcfAAAAAJ&hl=zh-CN&oi=ao)] |    107     |
+| Shimon Whiteson      | University of Oxford / Waymo                                 | [[Google Scholar](https://scholar.google.com/citations?user=9zeEI-cAAAAJ&hl=zh-CN&oi=ao)] |    106     |
+| Jan Peters           | German AI Research Center                                    | [[Google Scholar](https://scholar.google.com/citations?user=-kIVAcAAAAAJ&hl=zh-CN&oi=ao)] |     97     |
+| Shie Mannor          | Nvidia                                                       | [[Google Scholar](https://scholar.google.com/citations?user=q1HlbIUAAAAJ&hl=zh-CN&oi=ao)] |     94     |
+| Chelsea Finn         | Stanford University / Google                                 | [[Google Scholar](https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=zh-CN&oi=ao)] |     92     |
+| Dusit Niyato         |                                                              |                       [Google Scholar]                       |     88     |
+| Doina Precup         | DeepMind / McGill University                                 | [[Google Scholar](https://scholar.google.com/citations?user=j54VcVEAAAAJ&hl=zh-CN&oi=ao)] |     84     |
+| Ann Nowé             |                                                              | [[Google Scholar](https://scholar.google.com/citations?user=LH5QKbgAAAAJ&hl=zh-CN&oi=ao)] |     83     |
+| Marcello Restelli    | Politecnico di Milano                                        | [[Google Scholar](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=zh-CN&oi=ao)] |     80     |
+| Frank L. Lewis       |                                                              |                       [Google Scholar]                       |     78     |
+| H. Vincent Poor      |                                                              |                       [Google Scholar]                       |     71     |
+| Vaneet Aggarwal      | Purdue University                                            | [[Google Scholar](https://scholar.google.com/citations?user=Tu4lmGwAAAAJ&hl=zh-CN&oi=ao)] |     71     |
+| F. Richard Yu        | Carleton University                                          | [[Google Scholar](https://scholar.google.com/citations?user=zuGMGBoAAAAJ&hl=zh-CN&oi=ao)] |     71     |
+| Jun Wang             | University College London                                    | [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=wIE1tY4AAAAJ)] |     65     |
+| Michael L. Littman   |                                                              |                       [Google Scholar]                       |     64     |
+| Satinder Singh       | University of Michigan                                       |                       [Google Scholar]                       |     62     |
+| Mehdi Bennis         |                                                              |                       [Google Scholar]                       |     62     |
+| David Silver         | University College London / DeepMind                         |                       [Google Scholar]                       |     61     |
+| Rémi Munos           |                                                              |                       [Google Scholar]                       |     61     |
+| Marc G. Bellemare    |                                                              |                       [Google Scholar]                       |     60     |
+| Joelle Pineau        | McGill University / Meta AI                                  | [[Google Scholar](https://scholar.google.com/citations?user=CEt6_mMAAAAJ&hl=zh-CN&oi=ao)] |     60     |
+| Martin A. Riedmiller | Google                                                       | [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1gVfqpcAAAAJ&view_op=list_works&sortby=pubdate)] |     59     |
+| Mohsen Guizani       | Mohamed Bin Zayed University of Artificial Intelligence      | [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=RigrYkcAAAAJ&view_op=list_works&sortby=pubdate) |     56     |
+| Stefan Wermter       | University of Hamburg                                        | [[Google Scholar](https://scholar.google.com/citations?user=uIeaxuAAAAAJ&hl=zh-CN&oi=ao)] |     54     |
+| Ying-Chang Liang     |                                                              | [[Google Scholar](https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=zh-CN&oi=ao)] |     52     |
+| Jonathan P. How      |                                                              |                       [Google Scholar]                       |     52     |
+| Ivana Dusparic       | Trinity College Dublin                                       | [[Google Scholar](https://scholar.google.com/citations?user=CrGGAccAAAAJ&hl=zh-CN&oi=ao)] |     51     |
+| Robert Babuska       | Delft University of Technology / Czech Technical University Prague | [[Google Scholar](https://scholar.google.com/citations?user=0orN2FUAAAAJ&hl=zh-CN&oi=ao)] |     51     |
+| Emma Brunskill       | Stanford University                                          | [[Google Scholar](https://scholar.google.com/citations?user=HaN8b2YAAAAJ&hl=zh-CN&oi=ao)] |     50     |
+| Bo An                | Nanyang Technological University                             | [[Google Scholar](https://scholar.google.com/citations?user=PEEpuNwAAAAJ&hl=zh-CN&oi=ao)] |     —      |
 
